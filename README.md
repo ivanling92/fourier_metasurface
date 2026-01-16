@@ -22,3 +22,9 @@ To run this project, you need Python installed along with the following librarie
 
 ```bash
 pip install numpy matplotlib opencv-python torch
+```
+Alternatively, you can just use the requirements.txt file provided
+```bash
+pip install -r requirements.txt
+```
+
