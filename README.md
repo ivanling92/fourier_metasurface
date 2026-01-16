@@ -1,6 +1,6 @@
 # Metasurface Generation via ADAM Optimization
 
-**Author:** Ivan Ling  
+**Author:** Dr. Ivan Ling  
 **Affiliation:** University of Southampton, 2025
 
 ## 📖 Overview
