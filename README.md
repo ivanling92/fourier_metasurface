@@ -1,7 +1,10 @@
 # Metasurface Generation via ADAM Optimization
 
 **Author:** Dr. Ivan Ling  
-**Affiliation:** University of Southampton, 2025
+**Affiliation:** 
+Sustainable Electronic Technologies Research Group, 
+School of Electronics and Computer Science (ECS)
+University of Southampton, 2025
 
 ## 📖 Overview
 
